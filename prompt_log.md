@@ -25,7 +25,7 @@
 
 ---
 
-## Prompt #3 – Thiết kế test case cho quạt điện
+## Prompt #3 – Thiết kế test case cho bếp hồng ngoại
 **Thời gian:** 00:38 28/09/2026  
 **Công cụ:** Antigravity (Claude Opus 4.6)  
 **Nội dung prompt:**  
